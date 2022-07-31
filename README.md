@@ -1,6 +1,9 @@
 Don't worry about forgetting your tasks anymore. ;-)
+
 ![icon_todo](https://user-images.githubusercontent.com/47954697/182015418-0d89015c-b37b-4864-a076-baa73f399b26.png)
+
 This application is made with Flutter. I used provider for state management. Regarding saving information when exiting the program, I save a json file in the mobile memory and update this file with every change.
+
 
 
 ![WhatsApp Image 2022-07-31 at 12 05 12 PM (1)](https://user-images.githubusercontent.com/47954697/182015424-9ff71310-34c9-426d-a94f-102a4d42c5ab.jpeg)
